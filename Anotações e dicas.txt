@@ -1,0 +1,6 @@
+Git é um um sistema de controle de versões distribuído e um dos mais usados.
+Git bash e o git gui são terminais para o uso do git.
+
+Github é um plataforma para manter os código fontes e arquivos usando o Git.
+Os usuários do Github podem ter projetos open source ou projetos privados e contribuir para projetos open source.
+Projetos open sources são projetos públicos.
